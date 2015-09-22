@@ -1,0 +1,10 @@
+1.Inisialize the value of a,b,c
+2.Determine the d based this formula d=b*b-4*a*c,make sure that a!=0 
+3.To get the result of x1,x2 choose the formula which is avaible or appropiate with d
+4.There are 3 possible to solve this problem
+ a.if d>0 the formula is x1=-b/2*a
+	while,x1=x2
+ b.if d=0 the formula is x1=-b+sqrt(d)/2*a
+		   while x2=-b-sqrt(d)/2*a
+ c.if d<0 have means that x1,x2 include imaginary root
+5.Then,get the value or the screen of x1 and x2
